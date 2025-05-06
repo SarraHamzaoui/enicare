@@ -52,4 +52,3 @@ public class EtudiantController {
     }
 
 }
-//njeri les exceptions
